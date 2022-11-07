@@ -4,4 +4,4 @@ At EnSage, our mission is to significantly improve the quality of life for older
 
 EnSage is backed by [AlleyCorp](https://alleycorp.com/), a leading early-stage venture fund and incubator that founds and funds transformative companies in New York. 
 
-Interested in partnering with or joining our team?  Email [info@ensagehealth.com](mailto:ensagehealth.com) to learn more and check out our [careers](https://www.linkedin.com/company/ensage-health/jobs/).
+Interested in partnering with or joining our team?  Email [info@ensagehealth.com](mailto:info@ensagehealth.com) to learn more and check out our [careers](https://www.linkedin.com/company/ensage-health/jobs/).
